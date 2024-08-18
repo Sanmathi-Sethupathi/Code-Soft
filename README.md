@@ -2,6 +2,7 @@ CodeSoft Java Projects
 Welcome to my repository showcasing Java projects developed during my virtual internship at CodeSoft. This collection includes practical applications demonstrating core Java programming concepts.
 
 Projects
+
 **Number Guessing Game**
 A console-based game where users guess a randomly generated number. Includes feedback on guesses and a scoring system.
 
